@@ -1,5 +1,5 @@
 {
-    "name": "jackweinbender/larvael-jsonapi",
+    "name": "jackweinbender/laravel-jsonapi",
     "description": "Convenience classes for sending and recieveing JSONAPI payloads",
     "keywords": [
         "php",
