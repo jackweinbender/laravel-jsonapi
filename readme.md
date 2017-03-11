@@ -2,4 +2,6 @@
 
 [![Build Status](https://travis-ci.org/jackweinbender/laravel-jsonapi.svg?branch=master)](https://travis-ci.org/jackweinbender/laravel-jsonapi)
 
-A work-in-progress. Tightly integrated with eloquent.
+My temporary (and imcomplete) implementation of the JSONAPI spec while waiting on Fractal to implement it. 
+
+You should use Fractal.
