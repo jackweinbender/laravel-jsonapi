@@ -1,6 +1,6 @@
 # Laravel JSON-API
 
-My temporary (and imcomplete) implementation of the JSONAPI spec while waiting on Fractal to implement it. 
+My temporary (and imcomplete) implementation of the JSON-API spec while waiting on Fractal to implement it. 
 
 You should use Fractal.
 
